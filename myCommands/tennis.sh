@@ -1,5 +1,4 @@
 #!/bin/bash
-#Daniel Michaelshvili 207795030
 
 #
 #variables

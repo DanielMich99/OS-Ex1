@@ -1,5 +1,4 @@
 #!/bin/bash
-#Daniel Michaelshvili 207795030
 
 #check if the number of arguments is below 2
 if [ $# -lt 2 ]
